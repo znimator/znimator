@@ -13,6 +13,10 @@
 
 ###
 
+<p align="center">Tools and Languages</p>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=godot" height="36" alt="godot logo"  />
   <img width="12" />
@@ -34,6 +38,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
 </div>
+
+###
+
+<p align="center">Socials</p>
 
 ###
 
