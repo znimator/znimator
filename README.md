@@ -3,16 +3,14 @@
 ###
 
 <p align="left">I'm a "wanna be" game developer from Russia, currently a Computer Science Student (Second year) looking for job</p>
-
+<!-- 
 ###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=znimator&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=znimator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
-
+-->
 <p align="center">Tools and Languages</p>
 
 ###
