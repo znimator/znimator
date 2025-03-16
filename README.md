@@ -6,6 +6,10 @@
 
 ###
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/znimator?theme=dark)
+
+###
+
 <h3 align="center">Tools and Languages</h3>
 
 ###
