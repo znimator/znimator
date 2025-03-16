@@ -6,7 +6,7 @@
 
 ###
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/znimator?theme=dark)
+<div align="center"> ![Leetcode Stats](https://leetcard.jacoblin.cool/znimator?theme=dark) </div>
 
 ###
 
